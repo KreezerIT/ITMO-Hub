@@ -11,3 +11,4 @@
 
  - [Алгоритмы и структуры данных](algorithms_and_data_structures/README.md)
  - [Основы программирования](programming_basics/README.md)
+ - [Инструментальные средства разработки ПО](software_development_tools/README.md)
