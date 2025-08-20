@@ -1,0 +1,7 @@
+$pos 10
+FFFF
+$pos 12
+CLA
+HZA7 010
+MOV 011
+HLT

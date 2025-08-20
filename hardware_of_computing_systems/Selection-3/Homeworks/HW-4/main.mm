@@ -1,0 +1,6 @@
+$pos 1
+ISZ 001
+ADD 001
+BPL 005
+NOP
+DEC

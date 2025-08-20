@@ -6,6 +6,7 @@
 
  - [Алгоритмы и структуры данных](algorithms_and_data_structures/README.md)
  - [Программирование на C++](cpp_programming/README.md)
+ - [Аппаратное обеспечение вычислительных систем](hardware_of_computing_systems/README.md)
 
 ## I семестр
 

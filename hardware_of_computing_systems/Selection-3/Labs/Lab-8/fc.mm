@@ -1,0 +1,5 @@
+$pos 11
+CLA
+HZC
+MOV 010
+HLT
