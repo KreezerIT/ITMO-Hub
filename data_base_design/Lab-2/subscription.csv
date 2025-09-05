@@ -1,0 +1,6 @@
+id,user_id,vacancy_id,company_id,subscription_type
+1,1,1,1,New Vacancies
+2,2,NULL,2,Company Updates
+3,3,3,NULL,New Vacancies
+4,4,NULL,4,Company Updates
+5,5,5,5,New Vacancies

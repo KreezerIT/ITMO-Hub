@@ -1,0 +1,1 @@
+SELECT name,color,size FROM production.product

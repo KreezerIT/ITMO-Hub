@@ -1,0 +1,1 @@
+SELECT name FROM production.product_subcategory
