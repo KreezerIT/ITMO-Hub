@@ -5,10 +5,13 @@
 ## IV семестр
 
 - [Проектирование баз данных](data_base_design/README.md)
+- [Технологии программирования на Java](java_programming_technologies/README.md)
 
 ## III семестр
 
 - [Базы данных](data_bases/README.md)
+- [Объектно-ориентированное проектирование и программирование на C#](object_oriented_design_and_programming_csharp/README.md)
+
 
 ## II семестр
 
