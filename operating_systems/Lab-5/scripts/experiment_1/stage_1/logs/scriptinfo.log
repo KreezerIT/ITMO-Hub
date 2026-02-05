@@ -1,0 +1,719 @@
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378  100  1.8       00:05 195104 188540 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.8  2.2       00:06 230744 224124 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.7  2.5       00:07 256616 249852 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.6  2.8       00:09 287636 280956 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.8  3.1       00:10 320372 313724 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.7  3.4       00:11 354032 347388 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.8  3.8       00:13 390068 383484 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.7  4.2       00:14 425576 418940 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.8  4.5       00:15 461876 455164 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.8  4.8       00:16 494084 487420 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.7  5.2       00:18 526556 519804 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.8  5.5       00:19 561404 554748 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.8  5.8       00:20 592952 586236 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.8  6.1       00:22 624104 617468 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.9  6.5       00:23 656312 649596 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.9  6.8       00:24 688652 681980 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.8  7.1       00:25 721124 714492 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.8  7.4       00:27 753464 746876 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.9  7.8       00:28 786860 780156 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.8  8.1       00:29 822236 815612 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.8  8.5       00:31 857480 850812 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.9  8.8       00:32 892196 885628 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.9  9.2       00:33 927308 920700 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.9  9.5       00:34 959780 953084 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.8  9.8       00:36 991856 985084 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.8 10.2       00:37 1023536 1016956 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.8 10.5       00:38 1055876 1049212 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.9 10.8       00:40 1089800 1083132 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.9 11.2       00:41 1122668 1116028 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.9 11.5       00:42 1156724 1150076 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.9 11.8       00:43 1190252 1183612 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.9 12.2       00:45 1223252 1216508 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.9 12.5       00:46 1258496 1251836 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.8 12.8       00:47 1291100 1284476 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.8 13.2       00:48 1326344 1319804 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.8 13.5       00:50 1360928 1354236 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.8 13.9       00:51 1392476 1385724 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.8 14.2       00:52 1424420 1417724 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.8 14.5       00:54 1457156 1450492 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.8 14.8       00:55 1490684 1484028 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.8 15.2       00:56 1521176 1514492 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.8 15.4       00:58 1546784 1540092 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.8 15.7       00:59 1576088 1569404 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.8 16.0       01:00 1609352 1602556 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.8 16.3       01:01 1638260 1631612 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.8 16.7       01:03 1672184 1665532 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.8 17.0       01:04 1703996 1697276 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.8 17.3       01:05 1737260 1730556 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.8 17.7       01:07 1770656 1763964 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.8 18.0       01:08 1804976 1798268 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.8 18.3       01:09 1839428 1832700 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.8 18.7       01:10 1875068 1868284 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.8 19.0       01:12 1908992 1902332 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.8 19.4       01:13 1945292 1938556 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.8 19.7       01:14 1978820 1972092 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.8 20.1       01:15 2013668 2007036 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.8 20.4       01:17 2047988 2041212 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.8 20.8       01:18 2084420 2077692 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.8 21.2       01:19 2119664 2112892 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.8 21.5       01:21 2153984 2147196 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.8 21.8       01:22 2186984 2180220 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.8 22.2       01:23 2220512 2213756 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.8 22.5       01:24 2256020 2249340 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.8 22.9       01:26 2291132 2284412 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.8 23.2       01:27 2324924 2318204 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.8 23.6       01:28 2359244 2352508 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.8 23.9       01:29 2392376 2385660 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.8 24.2       01:31 2425508 2418812 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.9 24.6       01:32 2459960 2453244 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.8 24.9       01:33 2494148 2487420 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.8 25.2       01:35 2526356 2519676 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.8 25.6       01:36 2561468 2554876 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.8 26.0       01:37 2598032 2591356 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.8 26.3       01:38 2635256 2628604 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.8 26.7       01:40 2672876 2666236 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.8 27.1       01:41 2711816 2705148 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.9 27.5       01:42 2748380 2741756 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.9 27.8       01:44 2782304 2775676 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.8 28.2       01:45 2816888 2810108 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.9 28.5       01:46 2854376 2847740 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.9 28.9       01:47 2890412 2883708 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.8 29.3       01:49 2927240 2920444 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.9 29.6       01:50 2962088 2955388 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.9 30.0       01:51 2998652 2991868 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.9 30.3       01:52 3032972 3026300 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.9 30.7       01:54 3069140 3062396 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.9 31.0       01:55 3104516 3097724 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.9 31.4       01:56 3137912 3131132 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.9 31.7       01:58 3168272 3161596 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.9 32.0       01:59 3195332 3188732 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.9 32.3       02:00 3227804 3221116 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.9 32.6       02:01 3263576 3256828 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.9 33.0       02:03 3297236 3290492 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.9 33.3       02:04 3330236 3323516 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.9 33.6       02:05 3363500 3356796 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.9 34.5       02:08 3446792 3440124 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.8 34.8       02:09 3481376 3474684 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.9 35.2       02:10 3518336 3511548 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.8 35.5       02:12 3552920 3546236 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.8 35.9       02:13 3584996 3578236 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.8 36.2       02:14 3620240 3613436 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.8 36.6       02:15 3655484 3648764 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.8 36.9       02:17 3689804 3682812 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.8 37.3       02:18 3723992 3716988 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.8 37.6       02:19 3757520 3750524 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.8 37.9       02:21 3791312 3784316 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.8 38.4       02:22 3839888 3832956 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.8 38.8       02:24 3874208 3867260 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.8 39.1       02:25 3907604 3900668 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.8 39.4       02:26 3941528 3934588 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.8 39.8       02:27 3974000 3967100 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.8 40.1       02:29 4007792 4000892 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.8 40.5       02:30 4042640 4035708 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.8 40.8       02:31 4073264 4066428 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.8 41.1       02:32 4106264 4099452 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.8 41.4       02:34 4139528 4132604 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.8 41.7       02:35 4170020 4163068 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.8 42.0       02:36 4199588 4192636 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.8 42.4       02:38 4232984 4225916 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.8 42.7       02:39 4266248 4259196 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.8 43.0       02:40 4298984 4291964 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.8 43.4       02:42 4331852 4323964 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.9 43.7       02:44 4371848 4362136 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.2 44.2       02:49 4419236 4409720 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.2 44.6       02:50 4461740 4452216 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.2 45.1       02:52 4508204 4499052 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.2 45.6       02:53 4554800 4545772 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.2 46.0       02:54 4597040 4588012 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.1 46.4       02:56 4639544 4630508 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.1 46.8       02:57 4680068 4671084 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.1 47.2       02:58 4721120 4712172 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.1 47.7       03:00 4762436 4753388 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.1 48.1       03:01 4802168 4793196 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.1 48.5       03:02 4847708 4838636 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.1 49.0       03:03 4893512 4884460 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.1 49.4       03:05 4935224 4926188 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.1 49.8       03:06 4977728 4968684 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.1 50.3       03:07 5020628 5011564 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.1 50.7       03:09 5064848 5055980 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.1 51.1       03:10 5106824 5097836 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.1 51.6       03:11 5151308 5142252 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.1 52.0       03:12 5194736 5185772 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.1 52.4       03:14 5236052 5227116 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.1 52.6       03:15 5258624 5249644 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.2 53.0       03:16 5293868 5284972 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.2 53.4       03:18 5337692 5328748 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.2 53.9       03:19 5379668 5370604 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.2 54.3       03:20 5421248 5412332 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.2 54.7       03:21 5462300 5453292 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.2 55.0       03:23 5495432 5486444 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.2 55.3       03:24 5527772 5518828 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.2 55.7       03:25 5561168 5552236 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.2 56.0       03:26 5594036 5585132 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.2 56.4       03:28 5632448 5623404 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.2 56.8       03:29 5670860 5661932 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.2 57.1       03:30 5703596 5694700 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.2 57.4       03:32 5728940 5720044 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.2 57.7       03:33 5759036 5749996 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.2 58.0       03:34 5787812 5778796 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.2 58.2       03:36 5811704 5802860 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.2 58.6       03:37 5847476 5838444 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.2 58.9       03:38 5885228 5876204 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.2 59.3       03:39 5919944 5911020 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.2 59.7       03:41 5957168 5948268 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.2 60.0       03:42 5987132 5978220 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.2 60.3       03:43 6018152 6009196 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.2 60.5       03:45 6043100 6034156 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.3 60.8       03:46 6072536 6063596 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.2 61.1       03:47 6105140 6096236 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.3 61.5       03:48 6141308 6132332 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.3 61.8       03:50 6175628 6166636 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.3 62.2       03:51 6209816 6200812 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.3 62.5       03:52 6239252 6230252 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.3 62.8       03:54 6272912 6264044 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.3 63.2       03:55 6309080 6300140 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.3 63.6       03:56 6345644 6336620 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.3 64.0       03:57 6386564 6377708 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.3 64.3       03:59 6424316 6415340 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.3 64.7       04:00 6462992 6453996 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.3 65.1       04:01 6495464 6486508 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.3 65.5       04:02 6535592 6526572 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.3 65.9       04:04 6576776 6567788 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.3 66.3       04:05 6618224 6609260 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.3 66.6       04:06 6647264 6638316 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.3 66.9       04:07 6683696 6674668 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.3 67.4       04:09 6728444 6719468 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.3 67.9       04:10 6774908 6765932 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.3 68.3       04:11 6822956 6814060 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.3 68.8       04:13 6869816 6860908 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.3 69.3       04:14 6913904 6904940 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.3 69.7       04:15 6953108 6944108 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.3 70.1       04:16 6997988 6989036 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.3 70.6       04:18 7044320 7035244 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.3 71.0       04:19 7090520 7081580 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.3 71.5       04:20 7132496 7123564 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.3 71.9       04:21 7174076 7165164 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.3 72.3       04:23 7215260 7206252 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.3 72.6       04:24 7246412 7237356 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.4 72.9       04:25 7276376 7267436 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.4 73.3       04:26 7319144 7310188 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.4 73.6       04:28 7350164 7341164 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.4 74.0       04:29 7390424 7381484 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.4 74.4       04:30 7426856 7417964 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.4 74.7       04:32 7453520 7444588 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.4 75.0       04:33 7487708 7478764 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.4 75.3       04:34 7518728 7509868 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.4 75.6       04:36 7543148 7534188 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.4 75.9       04:37 7579052 7570156 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.4 76.2       04:38 7609412 7600492 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.4 76.5       04:40 7638056 7629164 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.4 76.8       04:41 7669736 7660780 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.4 77.1       04:42 7699964 7690988 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.4 77.4       04:43 7730060 7721068 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.4 77.7       04:45 7755800 7746796 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.4 78.0       04:46 7784048 7775084 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.4 78.3       04:47 7817708 7808748 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.4 78.6       04:49 7848860 7839980 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.4 79.0       04:50 7888196 7879276 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.4 79.5       04:51 7931228 7922284 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.4 79.9       04:52 7978088 7969132 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.4 80.4       04:54 8020724 8011756 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.4 80.8       04:55 8064548 8055660 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.4 81.2       04:56 8101244 8092268 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.4 81.5       04:57 8134772 8125804 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.4 81.9       04:59 8169620 8160620 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.4 82.3       05:00 8209220 8200172 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.4 82.6       05:01 8241428 8232556 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.4 82.9       05:03 8273372 8264428 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.4 83.2       05:04 8302940 8293996 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.4 83.6       05:05 8340692 8331756 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.4 84.0       05:06 8382536 8373612 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.4 84.3       05:08 8414480 8405484 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.4 84.7       05:09 8451044 8442092 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.4 85.1       05:10 8490908 8482028 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.4 85.5       05:12 8531168 8522220 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.4 85.9       05:13 8571428 8562412 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.4 86.2       05:15 8606012 8596680 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 99.2 86.6       05:21 8643500 8633740 /bin/bash ./mem.bash
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+  22378 98.8  0.0       05:29      0     0 [mem.bash]
+
+    PID %CPU %MEM     ELAPSED    VSZ   RSS CMD
+
