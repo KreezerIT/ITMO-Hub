@@ -1,6 +1,6 @@
 # Лабораторная №3. *unsupervised*
 
-**dataset**: [dataset35440_Lab_2-3.csv](../common_data/dataset35440_Lab_2-3.csv)  
+**dataset**: [dataset35440_Lab_2-3.csv](../common_data/dataset35440_Lab_2-3.csv) - *Расширенный датасет из [1й лабораторной](../Lab_1_parser/README.md)*  
 Всего строк: 35440
 
 ---
