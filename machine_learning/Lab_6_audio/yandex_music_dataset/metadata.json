@@ -1,0 +1,1358 @@
+{
+  "total_tracks": 150,
+  "successful_downloads": 150,
+  "failed_downloads": 0,
+  "tracks": [
+    {
+      "original_id": 58548079,
+      "filename": "ИГРА МИРОВ - Рок.mp3",
+      "file_path": "yandex_music_dataset/audio_files/ИГРА МИРОВ - Рок.mp3",
+      "artist": "ИГРА МИРОВ",
+      "title": "Рок",
+      "genre": "rock",
+      "downloaded_success": true
+    },
+    {
+      "original_id": 558,
+      "filename": "Black Eyed Peas - Rock That Body.mp3",
+      "file_path": "yandex_music_dataset/audio_files/Black Eyed Peas - Rock That Body.mp3",
+      "artist": "Black Eyed Peas",
+      "title": "Rock That Body",
+      "genre": "rock",
+      "downloaded_success": true
+    },
+    {
+      "original_id": 103247532,
+      "filename": "BUSHIDO ZHO - Rock.mp3",
+      "file_path": "yandex_music_dataset/audio_files/BUSHIDO ZHO - Rock.mp3",
+      "artist": "BUSHIDO ZHO",
+      "title": "Rock",
+      "genre": "rock",
+      "downloaded_success": true
+    },
+    {
+      "original_id": 1710811,
+      "filename": "Queen - We Will Rock You.mp3",
+      "file_path": "yandex_music_dataset/audio_files/Queen - We Will Rock You.mp3",
+      "artist": "Queen",
+      "title": "We Will Rock You",
+      "genre": "rock",
+      "downloaded_success": true
+    },
+    {
+      "original_id": 53497069,
+      "filename": "Radek - Rock Bottom.mp3",
+      "file_path": "yandex_music_dataset/audio_files/Radek - Rock Bottom.mp3",
+      "artist": "Radek",
+      "title": "Rock Bottom",
+      "genre": "rock",
+      "downloaded_success": true
+    },
+    {
+      "original_id": 29598557,
+      "filename": "Женя Любич - Рок.mp3",
+      "file_path": "yandex_music_dataset/audio_files/Женя Любич - Рок.mp3",
+      "artist": "Женя Любич",
+      "title": "Рок",
+      "genre": "rock",
+      "downloaded_success": true
+    },
+    {
+      "original_id": 118939147,
+      "filename": "FRHAD - Rock Star.mp3",
+      "file_path": "yandex_music_dataset/audio_files/FRHAD - Rock Star.mp3",
+      "artist": "FRHAD",
+      "title": "Rock Star",
+      "genre": "rock",
+      "downloaded_success": true
+    },
+    {
+      "original_id": 802,
+      "filename": "Sparks - Rock, Rock, Rock.mp3",
+      "file_path": "yandex_music_dataset/audio_files/Sparks - Rock, Rock, Rock.mp3",
+      "artist": "Sparks",
+      "title": "Rock, Rock, Rock",
+      "genre": "rock",
+      "downloaded_success": true
+    },
+    {
+      "original_id": 113662,
+      "filename": "The Subways - Rock & Roll Queen.mp3",
+      "file_path": "yandex_music_dataset/audio_files/The Subways - Rock & Roll Queen.mp3",
+      "artist": "The Subways",
+      "title": "Rock & Roll Queen",
+      "genre": "rock",
+      "downloaded_success": true
+    },
+    {
+      "original_id": 61206877,
+      "filename": "Bad Connection - Тяжёлый рок.mp3",
+      "file_path": "yandex_music_dataset/audio_files/Bad Connection - Тяжёлый рок.mp3",
+      "artist": "Bad Connection",
+      "title": "Тяжёлый рок",
+      "genre": "rock",
+      "downloaded_success": true
+    },
+    {
+      "original_id": 140215411,
+      "filename": "Gordon - Rock That Body.mp3",
+      "file_path": "yandex_music_dataset/audio_files/Gordon - Rock That Body.mp3",
+      "artist": "Gordon",
+      "title": "Rock That Body",
+      "genre": "rock",
+      "downloaded_success": true
+    },
+    {
+      "original_id": 140421443,
+      "filename": "KAZIOL - Rock Your Body.mp3",
+      "file_path": "yandex_music_dataset/audio_files/KAZIOL - Rock Your Body.mp3",
+      "artist": "KAZIOL",
+      "title": "Rock Your Body",
+      "genre": "rock",
+      "downloaded_success": true
+    },
+    {
+      "original_id": 38081853,
+      "filename": "Ledur - Rock The Body.mp3",
+      "file_path": "yandex_music_dataset/audio_files/Ledur - Rock The Body.mp3",
+      "artist": "Ledur",
+      "title": "Rock The Body",
+      "genre": "rock",
+      "downloaded_success": true
+    },
+    {
+      "original_id": 122963819,
+      "filename": "kets4eki - Rock Your Body.mp3",
+      "file_path": "yandex_music_dataset/audio_files/kets4eki - Rock Your Body.mp3",
+      "artist": "kets4eki",
+      "title": "Rock Your Body",
+      "genre": "rock",
+      "downloaded_success": true
+    },
+    {
+      "original_id": 140849650,
+      "filename": "Lumarii - Rock That Body.mp3",
+      "file_path": "yandex_music_dataset/audio_files/Lumarii - Rock That Body.mp3",
+      "artist": "Lumarii",
+      "title": "Rock That Body",
+      "genre": "rock",
+      "downloaded_success": true
+    },
+    {
+      "original_id": 8114387,
+      "filename": "ArthurKill - Rock Superstar.mp3",
+      "file_path": "yandex_music_dataset/audio_files/ArthurKill - Rock Superstar.mp3",
+      "artist": "ArthurKill",
+      "title": "Rock Superstar",
+      "genre": "rock",
+      "downloaded_success": true
+    },
+    {
+      "original_id": 10184050,
+      "filename": "Rob Zombie - Rock And Roll (In A Black Hole).mp3",
+      "file_path": "yandex_music_dataset/audio_files/Rob Zombie - Rock And Roll (In A Black Hole).mp3",
+      "artist": "Rob Zombie",
+      "title": "Rock And Roll (In A Black Hole)",
+      "genre": "rock",
+      "downloaded_success": true
+    },
+    {
+      "original_id": 140280881,
+      "filename": "Raykirie - Im Rock.mp3",
+      "file_path": "yandex_music_dataset/audio_files/Raykirie - Im Rock.mp3",
+      "artist": "Raykirie",
+      "title": "Im Rock",
+      "genre": "rock",
+      "downloaded_success": true
+    },
+    {
+      "original_id": 140384871,
+      "filename": "PureMiND - Rock That Body.mp3",
+      "file_path": "yandex_music_dataset/audio_files/PureMiND - Rock That Body.mp3",
+      "artist": "PureMiND",
+      "title": "Rock That Body",
+      "genre": "rock",
+      "downloaded_success": true
+    },
+    {
+      "original_id": 28036304,
+      "filename": "Scorpions - Rock You Like a Hurricane.mp3",
+      "file_path": "yandex_music_dataset/audio_files/Scorpions - Rock You Like a Hurricane.mp3",
+      "artist": "Scorpions",
+      "title": "Rock You Like a Hurricane",
+      "genre": "rock",
+      "downloaded_success": true
+    },
+    {
+      "original_id": 4348063,
+      "filename": "Black Moon - Outro.mp3",
+      "file_path": "yandex_music_dataset/audio_files/Black Moon - Outro.mp3",
+      "artist": "Black Moon",
+      "title": "Outro",
+      "genre": "rock",
+      "downloaded_success": true
+    },
+    {
+      "original_id": 17386795,
+      "filename": "Hyjak - When We Roll Through.mp3",
+      "file_path": "yandex_music_dataset/audio_files/Hyjak - When We Roll Through.mp3",
+      "artist": "Hyjak",
+      "title": "When We Roll Through",
+      "genre": "rock",
+      "downloaded_success": true
+    },
+    {
+      "original_id": 17783721,
+      "filename": "Shabaam Sahdeeq - Stuck off the Realness (feat. Rock of Heltah Skeltah).mp3",
+      "file_path": "yandex_music_dataset/audio_files/Shabaam Sahdeeq - Stuck off the Realness (feat. Rock of Heltah Skeltah).mp3",
+      "artist": "Shabaam Sahdeeq",
+      "title": "Stuck off the Realness (feat. Rock of Heltah Skeltah)",
+      "genre": "rock",
+      "downloaded_success": true
+    },
+    {
+      "original_id": 48853215,
+      "filename": "Aul purpis - Dirty Weapons.mp3",
+      "file_path": "yandex_music_dataset/audio_files/Aul purpis - Dirty Weapons.mp3",
+      "artist": "Aul purpis",
+      "title": "Dirty Weapons",
+      "genre": "rock",
+      "downloaded_success": true
+    },
+    {
+      "original_id": 25310907,
+      "filename": "Canibus - Bis & Sun Ruck & Rock (feat. Sean Price of Heltah Skeltah, Rock of Heltah Skeltah & Born Sun).mp3",
+      "file_path": "yandex_music_dataset/audio_files/Canibus - Bis & Sun Ruck & Rock (feat. Sean Price of Heltah Skeltah, Rock of Heltah Skeltah & Born Sun).mp3",
+      "artist": "Canibus",
+      "title": "Bis & Sun Ruck & Rock (feat. Sean Price of Heltah Skeltah, Rock of Heltah Skeltah & Born Sun)",
+      "genre": "rock",
+      "downloaded_success": true
+    },
+    {
+      "original_id": 45631446,
+      "filename": "AllinMixtapes - Remember Me.mp3",
+      "file_path": "yandex_music_dataset/audio_files/AllinMixtapes - Remember Me.mp3",
+      "artist": "AllinMixtapes",
+      "title": "Remember Me",
+      "genre": "rock",
+      "downloaded_success": true
+    },
+    {
+      "original_id": 4350157,
+      "filename": "Smif-n-Wessun - Stomp Thru.mp3",
+      "file_path": "yandex_music_dataset/audio_files/Smif-n-Wessun - Stomp Thru.mp3",
+      "artist": "Smif-n-Wessun",
+      "title": "Stomp Thru",
+      "genre": "rock",
+      "downloaded_success": true
+    },
+    {
+      "original_id": 126265604,
+      "filename": "Erick Sermon - If You Don't Know.mp3",
+      "file_path": "yandex_music_dataset/audio_files/Erick Sermon - If You Don't Know.mp3",
+      "artist": "Erick Sermon",
+      "title": "If You Don't Know",
+      "genre": "rock",
+      "downloaded_success": true
+    },
+    {
+      "original_id": 4349018,
+      "filename": "Sean Price - King Kong.mp3",
+      "file_path": "yandex_music_dataset/audio_files/Sean Price - King Kong.mp3",
+      "artist": "Sean Price",
+      "title": "King Kong",
+      "genre": "rock",
+      "downloaded_success": true
+    },
+    {
+      "original_id": 4228964,
+      "filename": "Sean Price - Slap Boxing.mp3",
+      "file_path": "yandex_music_dataset/audio_files/Sean Price - Slap Boxing.mp3",
+      "artist": "Sean Price",
+      "title": "Slap Boxing",
+      "genre": "rock",
+      "downloaded_success": true
+    },
+    {
+      "original_id": 4349032,
+      "filename": "Sean Price - P. Body.mp3",
+      "file_path": "yandex_music_dataset/audio_files/Sean Price - P. Body.mp3",
+      "artist": "Sean Price",
+      "title": "P. Body",
+      "genre": "rock",
+      "downloaded_success": true
+    },
+    {
+      "original_id": 36239710,
+      "filename": "Sean Price - Clans & Cliks.mp3",
+      "file_path": "yandex_music_dataset/audio_files/Sean Price - Clans & Cliks.mp3",
+      "artist": "Sean Price",
+      "title": "Clans & Cliks",
+      "genre": "rock",
+      "downloaded_success": true
+    },
+    {
+      "original_id": 4228967,
+      "filename": "Sean Price - Jail Shit.mp3",
+      "file_path": "yandex_music_dataset/audio_files/Sean Price - Jail Shit.mp3",
+      "artist": "Sean Price",
+      "title": "Jail Shit",
+      "genre": "rock",
+      "downloaded_success": true
+    },
+    {
+      "original_id": 4349023,
+      "filename": "Sean Price - Church.mp3",
+      "file_path": "yandex_music_dataset/audio_files/Sean Price - Church.mp3",
+      "artist": "Sean Price",
+      "title": "Church",
+      "genre": "rock",
+      "downloaded_success": true
+    },
+    {
+      "original_id": 114866968,
+      "filename": "Andy - U Turn.mp3",
+      "file_path": "yandex_music_dataset/audio_files/Andy - U Turn.mp3",
+      "artist": "Andy",
+      "title": "U Turn",
+      "genre": "rock",
+      "downloaded_success": true
+    },
+    {
+      "original_id": 131789086,
+      "filename": "Rock - Dna.mp3",
+      "file_path": "yandex_music_dataset/audio_files/Rock - Dna.mp3",
+      "artist": "Rock",
+      "title": "Dna",
+      "genre": "rock",
+      "downloaded_success": true
+    },
+    {
+      "original_id": 97786559,
+      "filename": "Classic Rock - Stadium Rock.mp3",
+      "file_path": "yandex_music_dataset/audio_files/Classic Rock - Stadium Rock.mp3",
+      "artist": "Classic Rock",
+      "title": "Stadium Rock",
+      "genre": "rock",
+      "downloaded_success": true
+    },
+    {
+      "original_id": 97786562,
+      "filename": "Classic Rock - One Life, Just Live It.mp3",
+      "file_path": "yandex_music_dataset/audio_files/Classic Rock - One Life, Just Live It.mp3",
+      "artist": "Classic Rock",
+      "title": "One Life, Just Live It",
+      "genre": "rock",
+      "downloaded_success": true
+    },
+    {
+      "original_id": 97786558,
+      "filename": "Classic Rock - Uplifting Airwaves.mp3",
+      "file_path": "yandex_music_dataset/audio_files/Classic Rock - Uplifting Airwaves.mp3",
+      "artist": "Classic Rock",
+      "title": "Uplifting Airwaves",
+      "genre": "rock",
+      "downloaded_success": true
+    },
+    {
+      "original_id": 97786566,
+      "filename": "Classic Rock - The March of Light.mp3",
+      "file_path": "yandex_music_dataset/audio_files/Classic Rock - The March of Light.mp3",
+      "artist": "Classic Rock",
+      "title": "The March of Light",
+      "genre": "rock",
+      "downloaded_success": true
+    },
+    {
+      "original_id": 114098937,
+      "filename": "Run Music - rock 2023.mp3",
+      "file_path": "yandex_music_dataset/audio_files/Run Music - rock 2023.mp3",
+      "artist": "Run Music",
+      "title": "rock 2023",
+      "genre": "rock",
+      "downloaded_success": true
+    },
+    {
+      "original_id": 131865417,
+      "filename": "Tommy-yang - Rock2023.mp3",
+      "file_path": "yandex_music_dataset/audio_files/Tommy-yang - Rock2023.mp3",
+      "artist": "Tommy-yang",
+      "title": "Rock2023",
+      "genre": "rock",
+      "downloaded_success": true
+    },
+    {
+      "original_id": 113860892,
+      "filename": "Comfortable Morning - rocks 2023.mp3",
+      "file_path": "yandex_music_dataset/audio_files/Comfortable Morning - rocks 2023.mp3",
+      "artist": "Comfortable Morning",
+      "title": "rocks 2023",
+      "genre": "rock",
+      "downloaded_success": true
+    },
+    {
+      "original_id": 65850086,
+      "filename": "House Music - Rock.mp3",
+      "file_path": "yandex_music_dataset/audio_files/House Music - Rock.mp3",
+      "artist": "House Music",
+      "title": "Rock",
+      "genre": "rock",
+      "downloaded_success": true
+    },
+    {
+      "original_id": 127662731,
+      "filename": "Alex Greenhouse - Rock Your Body.mp3",
+      "file_path": "yandex_music_dataset/audio_files/Alex Greenhouse - Rock Your Body.mp3",
+      "artist": "Alex Greenhouse",
+      "title": "Rock Your Body",
+      "genre": "rock",
+      "downloaded_success": true
+    },
+    {
+      "original_id": 113724012,
+      "filename": "Peter Orloff - Rocky.mp3",
+      "file_path": "yandex_music_dataset/audio_files/Peter Orloff - Rocky.mp3",
+      "artist": "Peter Orloff",
+      "title": "Rocky",
+      "genre": "rock",
+      "downloaded_success": true
+    },
+    {
+      "original_id": 1695045,
+      "filename": "Leadbelly with Sarah & Jim  Garland - Rock Of Ages (2023-A).mp3",
+      "file_path": "yandex_music_dataset/audio_files/Leadbelly with Sarah & Jim  Garland - Rock Of Ages (2023-A).mp3",
+      "artist": "Leadbelly with Sarah & Jim  Garland",
+      "title": "Rock Of Ages (2023-A)",
+      "genre": "rock",
+      "downloaded_success": true
+    },
+    {
+      "original_id": 129026632,
+      "filename": "The Headliners - I Am A Rock.mp3",
+      "file_path": "yandex_music_dataset/audio_files/The Headliners - I Am A Rock.mp3",
+      "artist": "The Headliners",
+      "title": "I Am A Rock",
+      "genre": "rock",
+      "downloaded_success": true
+    },
+    {
+      "original_id": 109417290,
+      "filename": "Jeff Driller - Rock Me Baby.mp3",
+      "file_path": "yandex_music_dataset/audio_files/Jeff Driller - Rock Me Baby.mp3",
+      "artist": "Jeff Driller",
+      "title": "Rock Me Baby",
+      "genre": "rock",
+      "downloaded_success": true
+    },
+    {
+      "original_id": 114641013,
+      "filename": "Atmozfears - Rock Ya Body.mp3",
+      "file_path": "yandex_music_dataset/audio_files/Atmozfears - Rock Ya Body.mp3",
+      "artist": "Atmozfears",
+      "title": "Rock Ya Body",
+      "genre": "rock",
+      "downloaded_success": true
+    },
+    {
+      "original_id": 135054971,
+      "filename": "byekid - Jazz.mp3",
+      "file_path": "yandex_music_dataset/audio_files/byekid - Jazz.mp3",
+      "artist": "byekid",
+      "title": "Jazz",
+      "genre": "jazz",
+      "downloaded_success": true
+    },
+    {
+      "original_id": 61556465,
+      "filename": "Basic Instinct - JAZZ.mp3",
+      "file_path": "yandex_music_dataset/audio_files/Basic Instinct - JAZZ.mp3",
+      "artist": "Basic Instinct",
+      "title": "JAZZ",
+      "genre": "jazz",
+      "downloaded_success": true
+    },
+    {
+      "original_id": 54024975,
+      "filename": "Sampladelic - Jazz.mp3",
+      "file_path": "yandex_music_dataset/audio_files/Sampladelic - Jazz.mp3",
+      "artist": "Sampladelic",
+      "title": "Jazz",
+      "genre": "jazz",
+      "downloaded_success": true
+    },
+    {
+      "original_id": 49732426,
+      "filename": "New Orleans Jazz Club - Jazz.mp3",
+      "file_path": "yandex_music_dataset/audio_files/New Orleans Jazz Club - Jazz.mp3",
+      "artist": "New Orleans Jazz Club",
+      "title": "Jazz",
+      "genre": "jazz",
+      "downloaded_success": true
+    },
+    {
+      "original_id": 49637450,
+      "filename": "Jazz Mr. Truba - Jazz.mp3",
+      "file_path": "yandex_music_dataset/audio_files/Jazz Mr. Truba - Jazz.mp3",
+      "artist": "Jazz Mr. Truba",
+      "title": "Jazz",
+      "genre": "jazz",
+      "downloaded_success": true
+    },
+    {
+      "original_id": 4394428,
+      "filename": "Marco Soundee,Eric van Aro - Jazz.mp3",
+      "file_path": "yandex_music_dataset/audio_files/Marco Soundee,Eric van Aro - Jazz.mp3",
+      "artist": "Marco Soundee,Eric van Aro",
+      "title": "Jazz",
+      "genre": "jazz",
+      "downloaded_success": true
+    },
+    {
+      "original_id": 47374125,
+      "filename": "Kvistum - Jazz Dance.mp3",
+      "file_path": "yandex_music_dataset/audio_files/Kvistum - Jazz Dance.mp3",
+      "artist": "Kvistum",
+      "title": "Jazz Dance",
+      "genre": "jazz",
+      "downloaded_success": true
+    },
+    {
+      "original_id": 22435822,
+      "filename": "Side - Afro Jazz.mp3",
+      "file_path": "yandex_music_dataset/audio_files/Side - Afro Jazz.mp3",
+      "artist": "Side",
+      "title": "Afro Jazz",
+      "genre": "jazz",
+      "downloaded_success": true
+    },
+    {
+      "original_id": 117999322,
+      "filename": "YungRemi - Jazz Dance.mp3",
+      "file_path": "yandex_music_dataset/audio_files/YungRemi - Jazz Dance.mp3",
+      "artist": "YungRemi",
+      "title": "Jazz Dance",
+      "genre": "jazz",
+      "downloaded_success": true
+    },
+    {
+      "original_id": 126461266,
+      "filename": "El Jorjo - Jazz Dance.mp3",
+      "file_path": "yandex_music_dataset/audio_files/El Jorjo - Jazz Dance.mp3",
+      "artist": "El Jorjo",
+      "title": "Jazz Dance",
+      "genre": "jazz",
+      "downloaded_success": true
+    },
+    {
+      "original_id": 114535558,
+      "filename": "0BM - Jazz & Sex.mp3",
+      "file_path": "yandex_music_dataset/audio_files/0BM - Jazz & Sex.mp3",
+      "artist": "0BM",
+      "title": "Jazz & Sex",
+      "genre": "jazz",
+      "downloaded_success": true
+    },
+    {
+      "original_id": 18873903,
+      "filename": "Clay Jenkins - Jazz Folk.mp3",
+      "file_path": "yandex_music_dataset/audio_files/Clay Jenkins - Jazz Folk.mp3",
+      "artist": "Clay Jenkins",
+      "title": "Jazz Folk",
+      "genre": "jazz",
+      "downloaded_success": true
+    },
+    {
+      "original_id": 144341602,
+      "filename": "SLO - Afro Jazz.mp3",
+      "file_path": "yandex_music_dataset/audio_files/SLO - Afro Jazz.mp3",
+      "artist": "SLO",
+      "title": "Afro Jazz",
+      "genre": "jazz",
+      "downloaded_success": true
+    },
+    {
+      "original_id": 121754121,
+      "filename": "LUKE - Jazz Hiphop.mp3",
+      "file_path": "yandex_music_dataset/audio_files/LUKE - Jazz Hiphop.mp3",
+      "artist": "LUKE",
+      "title": "Jazz Hiphop",
+      "genre": "jazz",
+      "downloaded_success": true
+    },
+    {
+      "original_id": 72411011,
+      "filename": "Edit - Jazz Bass.mp3",
+      "file_path": "yandex_music_dataset/audio_files/Edit - Jazz Bass.mp3",
+      "artist": "Edit",
+      "title": "Jazz Bass",
+      "genre": "jazz",
+      "downloaded_success": true
+    },
+    {
+      "original_id": 41919198,
+      "filename": "Agorvey - Jazz Version.mp3",
+      "file_path": "yandex_music_dataset/audio_files/Agorvey - Jazz Version.mp3",
+      "artist": "Agorvey",
+      "title": "Jazz Version",
+      "genre": "jazz",
+      "downloaded_success": true
+    },
+    {
+      "original_id": 58786077,
+      "filename": "Michal Martyniuk - Jazz Dance.mp3",
+      "file_path": "yandex_music_dataset/audio_files/Michal Martyniuk - Jazz Dance.mp3",
+      "artist": "Michal Martyniuk",
+      "title": "Jazz Dance",
+      "genre": "jazz",
+      "downloaded_success": true
+    },
+    {
+      "original_id": 120418204,
+      "filename": "Andrés - Ai Jazz.mp3",
+      "file_path": "yandex_music_dataset/audio_files/Andrés - Ai Jazz.mp3",
+      "artist": "Andrés",
+      "title": "Ai Jazz",
+      "genre": "jazz",
+      "downloaded_success": true
+    },
+    {
+      "original_id": 3334752,
+      "filename": "The Sound of Musical Orchestra - All That Jazz.mp3",
+      "file_path": "yandex_music_dataset/audio_files/The Sound of Musical Orchestra - All That Jazz.mp3",
+      "artist": "The Sound of Musical Orchestra",
+      "title": "All That Jazz",
+      "genre": "jazz",
+      "downloaded_success": true
+    },
+    {
+      "original_id": 104877752,
+      "filename": "lyestouchek - Jazz 60s.mp3",
+      "file_path": "yandex_music_dataset/audio_files/lyestouchek - Jazz 60s.mp3",
+      "artist": "lyestouchek",
+      "title": "Jazz 60s",
+      "genre": "jazz",
+      "downloaded_success": true
+    },
+    {
+      "original_id": 144034478,
+      "filename": "Jazz Evening - Атмосфера Нью-Йорка. New York Lounge Jazz.mp3",
+      "file_path": "yandex_music_dataset/audio_files/Jazz Evening - Атмосфера Нью-Йорка. New York Lounge Jazz.mp3",
+      "artist": "Jazz Evening",
+      "title": "Атмосфера Нью-Йорка. New York Lounge Jazz",
+      "genre": "jazz",
+      "downloaded_success": true
+    },
+    {
+      "original_id": 143971940,
+      "filename": "Luminote - Chill Jazz. Музыка для Кафе и Ресторанов (Ultra Slowed).mp3",
+      "file_path": "yandex_music_dataset/audio_files/Luminote - Chill Jazz. Музыка для Кафе и Ресторанов (Ultra Slowed).mp3",
+      "artist": "Luminote",
+      "title": "Chill Jazz. Музыка для Кафе и Ресторанов (Ultra Slowed)",
+      "genre": "jazz",
+      "downloaded_success": true
+    },
+    {
+      "original_id": 143196579,
+      "filename": "Severnote - Jazz Music. Lounge Jazz Music for Relaxation. Джаз Музыка для Отдыха и Фона.mp3",
+      "file_path": "yandex_music_dataset/audio_files/Severnote - Jazz Music. Lounge Jazz Music for Relaxation. Джаз Музыка для Отдыха и Фона.mp3",
+      "artist": "Severnote",
+      "title": "Jazz Music. Lounge Jazz Music for Relaxation. Джаз Музыка для Отдыха и Фона",
+      "genre": "jazz",
+      "downloaded_success": true
+    },
+    {
+      "original_id": 144056065,
+      "filename": "Jazz Evening - Smooth Lounge Jazz for Relaxation. Джаз Музыка для Отдыха и Фона.mp3",
+      "file_path": "yandex_music_dataset/audio_files/Jazz Evening - Smooth Lounge Jazz for Relaxation. Джаз Музыка для Отдыха и Фона.mp3",
+      "artist": "Jazz Evening",
+      "title": "Smooth Lounge Jazz for Relaxation. Джаз Музыка для Отдыха и Фона",
+      "genre": "jazz",
+      "downloaded_success": true
+    },
+    {
+      "original_id": 143971938,
+      "filename": "Luminote - Chill Jazz. Музыка для Кафе и Ресторанов.mp3",
+      "file_path": "yandex_music_dataset/audio_files/Luminote - Chill Jazz. Музыка для Кафе и Ресторанов.mp3",
+      "artist": "Luminote",
+      "title": "Chill Jazz. Музыка для Кафе и Ресторанов",
+      "genre": "jazz",
+      "downloaded_success": true
+    },
+    {
+      "original_id": 144056064,
+      "filename": "Jazz Evening - Лаундж Джаз. Late Night Jazz Lounge Music for a Relaxing Lounge Evenings.mp3",
+      "file_path": "yandex_music_dataset/audio_files/Jazz Evening - Лаундж Джаз. Late Night Jazz Lounge Music for a Relaxing Lounge Evenings.mp3",
+      "artist": "Jazz Evening",
+      "title": "Лаундж Джаз. Late Night Jazz Lounge Music for a Relaxing Lounge Evenings",
+      "genre": "jazz",
+      "downloaded_success": true
+    },
+    {
+      "original_id": 143971941,
+      "filename": "Luminote - Chill Jazz. Музыка для Кафе и Ресторанов (Sped Up).mp3",
+      "file_path": "yandex_music_dataset/audio_files/Luminote - Chill Jazz. Музыка для Кафе и Ресторанов (Sped Up).mp3",
+      "artist": "Luminote",
+      "title": "Chill Jazz. Музыка для Кафе и Ресторанов (Sped Up)",
+      "genre": "jazz",
+      "downloaded_success": true
+    },
+    {
+      "original_id": 143971939,
+      "filename": "Luminote - Chill Jazz. Музыка для Кафе и Ресторанов (Slowed).mp3",
+      "file_path": "yandex_music_dataset/audio_files/Luminote - Chill Jazz. Музыка для Кафе и Ресторанов (Slowed).mp3",
+      "artist": "Luminote",
+      "title": "Chill Jazz. Музыка для Кафе и Ресторанов (Slowed)",
+      "genre": "jazz",
+      "downloaded_success": true
+    },
+    {
+      "original_id": 144200240,
+      "filename": "Luminote - Дал Джазу. Джаз Музыка для Отдыха и Фона.mp3",
+      "file_path": "yandex_music_dataset/audio_files/Luminote - Дал Джазу. Джаз Музыка для Отдыха и Фона.mp3",
+      "artist": "Luminote",
+      "title": "Дал Джазу. Джаз Музыка для Отдыха и Фона",
+      "genre": "jazz",
+      "downloaded_success": true
+    },
+    {
+      "original_id": 144200241,
+      "filename": "Luminote - Дал Джазу. Джаз Музыка для Отдыха и Фона (Slowed).mp3",
+      "file_path": "yandex_music_dataset/audio_files/Luminote - Дал Джазу. Джаз Музыка для Отдыха и Фона (Slowed).mp3",
+      "artist": "Luminote",
+      "title": "Дал Джазу. Джаз Музыка для Отдыха и Фона (Slowed)",
+      "genre": "jazz",
+      "downloaded_success": true
+    },
+    {
+      "original_id": 76784901,
+      "filename": "#Jazz - Smooth Relaxing Lounge Jazz.mp3",
+      "file_path": "yandex_music_dataset/audio_files/#Jazz - Smooth Relaxing Lounge Jazz.mp3",
+      "artist": "#Jazz",
+      "title": "Smooth Relaxing Lounge Jazz",
+      "genre": "jazz",
+      "downloaded_success": true
+    },
+    {
+      "original_id": 76784903,
+      "filename": "#Jazz - Duck Time.mp3",
+      "file_path": "yandex_music_dataset/audio_files/#Jazz - Duck Time.mp3",
+      "artist": "#Jazz",
+      "title": "Duck Time",
+      "genre": "jazz",
+      "downloaded_success": true
+    },
+    {
+      "original_id": 76784902,
+      "filename": "#Jazz - Saturday Is Here.mp3",
+      "file_path": "yandex_music_dataset/audio_files/#Jazz - Saturday Is Here.mp3",
+      "artist": "#Jazz",
+      "title": "Saturday Is Here",
+      "genre": "jazz",
+      "downloaded_success": true
+    },
+    {
+      "original_id": 76784908,
+      "filename": "#Jazz - Crazy Jazzy Blues.mp3",
+      "file_path": "yandex_music_dataset/audio_files/#Jazz - Crazy Jazzy Blues.mp3",
+      "artist": "#Jazz",
+      "title": "Crazy Jazzy Blues",
+      "genre": "jazz",
+      "downloaded_success": true
+    },
+    {
+      "original_id": 76784905,
+      "filename": "#Jazz - Canada South.mp3",
+      "file_path": "yandex_music_dataset/audio_files/#Jazz - Canada South.mp3",
+      "artist": "#Jazz",
+      "title": "Canada South",
+      "genre": "jazz",
+      "downloaded_success": true
+    },
+    {
+      "original_id": 76784915,
+      "filename": "#Jazz - Lola Wants David.mp3",
+      "file_path": "yandex_music_dataset/audio_files/#Jazz - Lola Wants David.mp3",
+      "artist": "#Jazz",
+      "title": "Lola Wants David",
+      "genre": "jazz",
+      "downloaded_success": true
+    },
+    {
+      "original_id": 76784907,
+      "filename": "#Jazz - Blues in Water.mp3",
+      "file_path": "yandex_music_dataset/audio_files/#Jazz - Blues in Water.mp3",
+      "artist": "#Jazz",
+      "title": "Blues in Water",
+      "genre": "jazz",
+      "downloaded_success": true
+    },
+    {
+      "original_id": 76784914,
+      "filename": "#Jazz - Lets Fall in Love.mp3",
+      "file_path": "yandex_music_dataset/audio_files/#Jazz - Lets Fall in Love.mp3",
+      "artist": "#Jazz",
+      "title": "Lets Fall in Love",
+      "genre": "jazz",
+      "downloaded_success": true
+    },
+    {
+      "original_id": 76784910,
+      "filename": "#Jazz - Spending More.mp3",
+      "file_path": "yandex_music_dataset/audio_files/#Jazz - Spending More.mp3",
+      "artist": "#Jazz",
+      "title": "Spending More",
+      "genre": "jazz",
+      "downloaded_success": true
+    },
+    {
+      "original_id": 76784911,
+      "filename": "#Jazz - Rare Things Lost.mp3",
+      "file_path": "yandex_music_dataset/audio_files/#Jazz - Rare Things Lost.mp3",
+      "artist": "#Jazz",
+      "title": "Rare Things Lost",
+      "genre": "jazz",
+      "downloaded_success": true
+    },
+    {
+      "original_id": 117202713,
+      "filename": "Nego Jazz - 2023.mp3",
+      "file_path": "yandex_music_dataset/audio_files/Nego Jazz - 2023.mp3",
+      "artist": "Nego Jazz",
+      "title": "2023",
+      "genre": "jazz",
+      "downloaded_success": true
+    },
+    {
+      "original_id": 119119563,
+      "filename": "Shuvo - Global Grove Jazz 2023.mp3",
+      "file_path": "yandex_music_dataset/audio_files/Shuvo - Global Grove Jazz 2023.mp3",
+      "artist": "Shuvo",
+      "title": "Global Grove Jazz 2023",
+      "genre": "jazz",
+      "downloaded_success": true
+    },
+    {
+      "original_id": 111907865,
+      "filename": "Cafe Music BGM channel - Breezin' Jazz.mp3",
+      "file_path": "yandex_music_dataset/audio_files/Cafe Music BGM channel - Breezin' Jazz.mp3",
+      "artist": "Cafe Music BGM channel",
+      "title": "Breezin' Jazz",
+      "genre": "jazz",
+      "downloaded_success": true
+    },
+    {
+      "original_id": 2582403,
+      "filename": "Subjazz - Jazz Mattazz.mp3",
+      "file_path": "yandex_music_dataset/audio_files/Subjazz - Jazz Mattazz.mp3",
+      "artist": "Subjazz",
+      "title": "Jazz Mattazz",
+      "genre": "jazz",
+      "downloaded_success": true
+    },
+    {
+      "original_id": 115346307,
+      "filename": "Norman Jones - Jazz Alliance.mp3",
+      "file_path": "yandex_music_dataset/audio_files/Norman Jones - Jazz Alliance.mp3",
+      "artist": "Norman Jones",
+      "title": "Jazz Alliance",
+      "genre": "jazz",
+      "downloaded_success": true
+    },
+    {
+      "original_id": 107323059,
+      "filename": "Night Wanderer - Jazz.mp3",
+      "file_path": "yandex_music_dataset/audio_files/Night Wanderer - Jazz.mp3",
+      "artist": "Night Wanderer",
+      "title": "Jazz",
+      "genre": "jazz",
+      "downloaded_success": true
+    },
+    {
+      "original_id": 141783139,
+      "filename": "Skillmann - Jazz.mp3",
+      "file_path": "yandex_music_dataset/audio_files/Skillmann - Jazz.mp3",
+      "artist": "Skillmann",
+      "title": "Jazz",
+      "genre": "jazz",
+      "downloaded_success": true
+    },
+    {
+      "original_id": 53108601,
+      "filename": "Deep Lo - Jazz.mp3",
+      "file_path": "yandex_music_dataset/audio_files/Deep Lo - Jazz.mp3",
+      "artist": "Deep Lo",
+      "title": "Jazz",
+      "genre": "jazz",
+      "downloaded_success": true
+    },
+    {
+      "original_id": 127823451,
+      "filename": "Scruscru - Brass & Jazz.mp3",
+      "file_path": "yandex_music_dataset/audio_files/Scruscru - Brass & Jazz.mp3",
+      "artist": "Scruscru",
+      "title": "Brass & Jazz",
+      "genre": "jazz",
+      "downloaded_success": true
+    },
+    {
+      "original_id": 104288788,
+      "filename": "Jazz For Sleeping - Wonderful Jazz.mp3",
+      "file_path": "yandex_music_dataset/audio_files/Jazz For Sleeping - Wonderful Jazz.mp3",
+      "artist": "Jazz For Sleeping",
+      "title": "Wonderful Jazz",
+      "genre": "jazz",
+      "downloaded_success": true
+    },
+    {
+      "original_id": 44165051,
+      "filename": "Af1 - Hiphop.mp3",
+      "file_path": "yandex_music_dataset/audio_files/Af1 - Hiphop.mp3",
+      "artist": "Af1",
+      "title": "Hiphop",
+      "genre": "hiphop",
+      "downloaded_success": true
+    },
+    {
+      "original_id": 66539615,
+      "filename": "Frenmad - HipHop.mp3",
+      "file_path": "yandex_music_dataset/audio_files/Frenmad - HipHop.mp3",
+      "artist": "Frenmad",
+      "title": "HipHop",
+      "genre": "hiphop",
+      "downloaded_success": true
+    },
+    {
+      "original_id": 97765903,
+      "filename": "￦ET$EASON - HIPHOP.mp3",
+      "file_path": "yandex_music_dataset/audio_files/￦ET$EASON - HIPHOP.mp3",
+      "artist": "￦ET$EASON",
+      "title": "HIPHOP",
+      "genre": "hiphop",
+      "downloaded_success": true
+    },
+    {
+      "original_id": 117801738,
+      "filename": "Pansophi - Hiphop.mp3",
+      "file_path": "yandex_music_dataset/audio_files/Pansophi - Hiphop.mp3",
+      "artist": "Pansophi",
+      "title": "Hiphop",
+      "genre": "hiphop",
+      "downloaded_success": true
+    },
+    {
+      "original_id": 124278371,
+      "filename": "Billite - Hiphop.mp3",
+      "file_path": "yandex_music_dataset/audio_files/Billite - Hiphop.mp3",
+      "artist": "Billite",
+      "title": "Hiphop",
+      "genre": "hiphop",
+      "downloaded_success": true
+    },
+    {
+      "original_id": 63523842,
+      "filename": "Kayno Splits Wigz - HipHop.mp3",
+      "file_path": "yandex_music_dataset/audio_files/Kayno Splits Wigz - HipHop.mp3",
+      "artist": "Kayno Splits Wigz",
+      "title": "HipHop",
+      "genre": "hiphop",
+      "downloaded_success": true
+    },
+    {
+      "original_id": 4521665,
+      "filename": "Jack Flash - HIPHOP.mp3",
+      "file_path": "yandex_music_dataset/audio_files/Jack Flash - HIPHOP.mp3",
+      "artist": "Jack Flash",
+      "title": "HIPHOP",
+      "genre": "hiphop",
+      "downloaded_success": true
+    },
+    {
+      "original_id": 138640772,
+      "filename": "Smoky - Hiphop.mp3",
+      "file_path": "yandex_music_dataset/audio_files/Smoky - Hiphop.mp3",
+      "artist": "Smoky",
+      "title": "Hiphop",
+      "genre": "hiphop",
+      "downloaded_success": true
+    },
+    {
+      "original_id": 20536548,
+      "filename": "Skee-Lo - Hip Hop.mp3",
+      "file_path": "yandex_music_dataset/audio_files/Skee-Lo - Hip Hop.mp3",
+      "artist": "Skee-Lo",
+      "title": "Hip Hop",
+      "genre": "hiphop",
+      "downloaded_success": true
+    },
+    {
+      "original_id": 93971876,
+      "filename": "$denero$ - Hiphop Geniuses.mp3",
+      "file_path": "yandex_music_dataset/audio_files/$denero$ - Hiphop Geniuses.mp3",
+      "artist": "$denero$",
+      "title": "Hiphop Geniuses",
+      "genre": "hiphop",
+      "downloaded_success": true
+    },
+    {
+      "original_id": 1721755,
+      "filename": "N.A.S.A. - Hip Hop.mp3",
+      "file_path": "yandex_music_dataset/audio_files/N.A.S.A. - Hip Hop.mp3",
+      "artist": "N.A.S.A.",
+      "title": "Hip Hop",
+      "genre": "hiphop",
+      "downloaded_success": true
+    },
+    {
+      "original_id": 124328714,
+      "filename": "Youknowwho - HipHop.mp3",
+      "file_path": "yandex_music_dataset/audio_files/Youknowwho - HipHop.mp3",
+      "artist": "Youknowwho",
+      "title": "HipHop",
+      "genre": "hiphop",
+      "downloaded_success": true
+    },
+    {
+      "original_id": 57712563,
+      "filename": "Base De Rap - Beat Rap Hip Hop.mp3",
+      "file_path": "yandex_music_dataset/audio_files/Base De Rap - Beat Rap Hip Hop.mp3",
+      "artist": "Base De Rap",
+      "title": "Beat Rap Hip Hop",
+      "genre": "hiphop",
+      "downloaded_success": true
+    },
+    {
+      "original_id": 143083545,
+      "filename": "TATTLEBOY - HIP-HOP.mp3",
+      "file_path": "yandex_music_dataset/audio_files/TATTLEBOY - HIP-HOP.mp3",
+      "artist": "TATTLEBOY",
+      "title": "HIP-HOP",
+      "genre": "hiphop",
+      "downloaded_success": true
+    },
+    {
+      "original_id": 2254988,
+      "filename": "Cihat - Hip Hop.mp3",
+      "file_path": "yandex_music_dataset/audio_files/Cihat - Hip Hop.mp3",
+      "artist": "Cihat",
+      "title": "Hip Hop",
+      "genre": "hiphop",
+      "downloaded_success": true
+    },
+    {
+      "original_id": 140452713,
+      "filename": "NANA - Hip -Hop.mp3",
+      "file_path": "yandex_music_dataset/audio_files/NANA - Hip -Hop.mp3",
+      "artist": "NANA",
+      "title": "Hip -Hop",
+      "genre": "hiphop",
+      "downloaded_success": true
+    },
+    {
+      "original_id": 35370759,
+      "filename": "Smindlo - Hip-Hop.mp3",
+      "file_path": "yandex_music_dataset/audio_files/Smindlo - Hip-Hop.mp3",
+      "artist": "Smindlo",
+      "title": "Hip-Hop",
+      "genre": "hiphop",
+      "downloaded_success": true
+    },
+    {
+      "original_id": 118807554,
+      "filename": "World Wide Rap - Hip Hop.mp3",
+      "file_path": "yandex_music_dataset/audio_files/World Wide Rap - Hip Hop.mp3",
+      "artist": "World Wide Rap",
+      "title": "Hip Hop",
+      "genre": "hiphop",
+      "downloaded_success": true
+    },
+    {
+      "original_id": 38958902,
+      "filename": "Alandra - Hip Hop Background.mp3",
+      "file_path": "yandex_music_dataset/audio_files/Alandra - Hip Hop Background.mp3",
+      "artist": "Alandra",
+      "title": "Hip Hop Background",
+      "genre": "hiphop",
+      "downloaded_success": true
+    },
+    {
+      "original_id": 111321024,
+      "filename": "PA$CH - Hip Hop Baby.mp3",
+      "file_path": "yandex_music_dataset/audio_files/PA$CH - Hip Hop Baby.mp3",
+      "artist": "PA$CH",
+      "title": "Hip Hop Baby",
+      "genre": "hiphop",
+      "downloaded_success": true
+    },
+    {
+      "original_id": 92894605,
+      "filename": "Skip The Kid - Watch Me.mp3",
+      "file_path": "yandex_music_dataset/audio_files/Skip The Kid - Watch Me.mp3",
+      "artist": "Skip The Kid",
+      "title": "Watch Me",
+      "genre": "hiphop",
+      "downloaded_success": true
+    },
+    {
+      "original_id": 92894602,
+      "filename": "Skip The Kid - Heights.mp3",
+      "file_path": "yandex_music_dataset/audio_files/Skip The Kid - Heights.mp3",
+      "artist": "Skip The Kid",
+      "title": "Heights",
+      "genre": "hiphop",
+      "downloaded_success": true
+    },
+    {
+      "original_id": 140646475,
+      "filename": "Alterboy - Gabriela.mp3",
+      "file_path": "yandex_music_dataset/audio_files/Alterboy - Gabriela.mp3",
+      "artist": "Alterboy",
+      "title": "Gabriela",
+      "genre": "hiphop",
+      "downloaded_success": true
+    },
+    {
+      "original_id": 93327175,
+      "filename": "Hip Hop - Smoke Weed Freestyle.mp3",
+      "file_path": "yandex_music_dataset/audio_files/Hip Hop - Smoke Weed Freestyle.mp3",
+      "artist": "Hip Hop",
+      "title": "Smoke Weed Freestyle",
+      "genre": "hiphop",
+      "downloaded_success": true
+    },
+    {
+      "original_id": 95303823,
+      "filename": "Sacramento - Mis cascos.mp3",
+      "file_path": "yandex_music_dataset/audio_files/Sacramento - Mis cascos.mp3",
+      "artist": "Sacramento",
+      "title": "Mis cascos",
+      "genre": "hiphop",
+      "downloaded_success": true
+    },
+    {
+      "original_id": 72290917,
+      "filename": "Hip Hop - Chakras (The Lost Tapes).mp3",
+      "file_path": "yandex_music_dataset/audio_files/Hip Hop - Chakras (The Lost Tapes).mp3",
+      "artist": "Hip Hop",
+      "title": "Chakras (The Lost Tapes)",
+      "genre": "hiphop",
+      "downloaded_success": true
+    },
+    {
+      "original_id": 95303813,
+      "filename": "Sacramento - Intro.mp3",
+      "file_path": "yandex_music_dataset/audio_files/Sacramento - Intro.mp3",
+      "artist": "Sacramento",
+      "title": "Intro",
+      "genre": "hiphop",
+      "downloaded_success": true
+    },
+    {
+      "original_id": 132784878,
+      "filename": "Trypper - Its All About Money.mp3",
+      "file_path": "yandex_music_dataset/audio_files/Trypper - Its All About Money.mp3",
+      "artist": "Trypper",
+      "title": "Its All About Money",
+      "genre": "hiphop",
+      "downloaded_success": true
+    },
+    {
+      "original_id": 33235961,
+      "filename": "Hip Hop - U Kthym.mp3",
+      "file_path": "yandex_music_dataset/audio_files/Hip Hop - U Kthym.mp3",
+      "artist": "Hip Hop",
+      "title": "U Kthym",
+      "genre": "hiphop",
+      "downloaded_success": true
+    },
+    {
+      "original_id": 95303814,
+      "filename": "Sacramento - Bienvenidos a Sacramento.mp3",
+      "file_path": "yandex_music_dataset/audio_files/Sacramento - Bienvenidos a Sacramento.mp3",
+      "artist": "Sacramento",
+      "title": "Bienvenidos a Sacramento",
+      "genre": "hiphop",
+      "downloaded_success": true
+    },
+    {
+      "original_id": 95303828,
+      "filename": "Sacramento - Outro.mp3",
+      "file_path": "yandex_music_dataset/audio_files/Sacramento - Outro.mp3",
+      "artist": "Sacramento",
+      "title": "Outro",
+      "genre": "hiphop",
+      "downloaded_success": true
+    },
+    {
+      "original_id": 95303826,
+      "filename": "Sacramento - Rockin' with the best.mp3",
+      "file_path": "yandex_music_dataset/audio_files/Sacramento - Rockin' with the best.mp3",
+      "artist": "Sacramento",
+      "title": "Rockin' with the best",
+      "genre": "hiphop",
+      "downloaded_success": true
+    },
+    {
+      "original_id": 143836026,
+      "filename": "SnapstrX - Made In Malabar.mp3",
+      "file_path": "yandex_music_dataset/audio_files/SnapstrX - Made In Malabar.mp3",
+      "artist": "SnapstrX",
+      "title": "Made In Malabar",
+      "genre": "hiphop",
+      "downloaded_success": true
+    },
+    {
+      "original_id": 138185276,
+      "filename": "Lo Fi Hip Hop - It's not fair.mp3",
+      "file_path": "yandex_music_dataset/audio_files/Lo Fi Hip Hop - It's not fair.mp3",
+      "artist": "Lo Fi Hip Hop",
+      "title": "It's not fair",
+      "genre": "hiphop",
+      "downloaded_success": true
+    },
+    {
+      "original_id": 111043208,
+      "filename": "Lofi Hip Hop - Chill.mp3",
+      "file_path": "yandex_music_dataset/audio_files/Lofi Hip Hop - Chill.mp3",
+      "artist": "Lofi Hip Hop",
+      "title": "Chill",
+      "genre": "hiphop",
+      "downloaded_success": true
+    },
+    {
+      "original_id": 143522798,
+      "filename": "polino4ka - glory.mp3",
+      "file_path": "yandex_music_dataset/audio_files/polino4ka - glory.mp3",
+      "artist": "polino4ka",
+      "title": "glory",
+      "genre": "hiphop",
+      "downloaded_success": true
+    },
+    {
+      "original_id": 139746136,
+      "filename": "Lo Fi Hip Hop - travel toy.mp3",
+      "file_path": "yandex_music_dataset/audio_files/Lo Fi Hip Hop - travel toy.mp3",
+      "artist": "Lo Fi Hip Hop",
+      "title": "travel toy",
+      "genre": "hiphop",
+      "downloaded_success": true
+    },
+    {
+      "original_id": 109872399,
+      "filename": "LO-FI BEATS - Гавайи.mp3",
+      "file_path": "yandex_music_dataset/audio_files/LO-FI BEATS - Гавайи.mp3",
+      "artist": "LO-FI BEATS",
+      "title": "Гавайи",
+      "genre": "hiphop",
+      "downloaded_success": true
+    },
+    {
+      "original_id": 111043215,
+      "filename": "Lofi Hip Hop - Carrier.mp3",
+      "file_path": "yandex_music_dataset/audio_files/Lofi Hip Hop - Carrier.mp3",
+      "artist": "Lofi Hip Hop",
+      "title": "Carrier",
+      "genre": "hiphop",
+      "downloaded_success": true
+    },
+    {
+      "original_id": 111043210,
+      "filename": "Lofi Hip Hop - Rhythm.mp3",
+      "file_path": "yandex_music_dataset/audio_files/Lofi Hip Hop - Rhythm.mp3",
+      "artist": "Lofi Hip Hop",
+      "title": "Rhythm",
+      "genre": "hiphop",
+      "downloaded_success": true
+    },
+    {
+      "original_id": 112354204,
+      "filename": "Zeekonthebeat - Hiphop 2023.mp3",
+      "file_path": "yandex_music_dataset/audio_files/Zeekonthebeat - Hiphop 2023.mp3",
+      "artist": "Zeekonthebeat",
+      "title": "Hiphop 2023",
+      "genre": "hiphop",
+      "downloaded_success": true
+    },
+    {
+      "original_id": 112803219,
+      "filename": "MARYO RAJA - Hiphop 2023.mp3",
+      "file_path": "yandex_music_dataset/audio_files/MARYO RAJA - Hiphop 2023.mp3",
+      "artist": "MARYO RAJA",
+      "title": "Hiphop 2023",
+      "genre": "hiphop",
+      "downloaded_success": true
+    },
+    {
+      "original_id": 116282504,
+      "filename": "сборник - HIPHOP ANTHEM 2023.mp3",
+      "file_path": "yandex_music_dataset/audio_files/сборник - HIPHOP ANTHEM 2023.mp3",
+      "artist": "сборник",
+      "title": "HIPHOP ANTHEM 2023",
+      "genre": "hiphop",
+      "downloaded_success": true
+    },
+    {
+      "original_id": 116282506,
+      "filename": "сборник - HIPHOP ANTHEM 2023 (Inst.).mp3",
+      "file_path": "yandex_music_dataset/audio_files/сборник - HIPHOP ANTHEM 2023 (Inst.).mp3",
+      "artist": "сборник",
+      "title": "HIPHOP ANTHEM 2023 (Inst.)",
+      "genre": "hiphop",
+      "downloaded_success": true
+    },
+    {
+      "original_id": 115792565,
+      "filename": "王波 - Chines Underground HipHop All School Cypher 2023.mp3",
+      "file_path": "yandex_music_dataset/audio_files/王波 - Chines Underground HipHop All School Cypher 2023.mp3",
+      "artist": "王波",
+      "title": "Chines Underground HipHop All School Cypher 2023",
+      "genre": "hiphop",
+      "downloaded_success": true
+    },
+    {
+      "original_id": 114653715,
+      "filename": "Morning Night Moon - best 2023.mp3",
+      "file_path": "yandex_music_dataset/audio_files/Morning Night Moon - best 2023.mp3",
+      "artist": "Morning Night Moon",
+      "title": "best 2023",
+      "genre": "hiphop",
+      "downloaded_success": true
+    },
+    {
+      "original_id": 114655943,
+      "filename": "Soothing Sonics - spanish 2023.mp3",
+      "file_path": "yandex_music_dataset/audio_files/Soothing Sonics - spanish 2023.mp3",
+      "artist": "Soothing Sonics",
+      "title": "spanish 2023",
+      "genre": "hiphop",
+      "downloaded_success": true
+    },
+    {
+      "original_id": 111787579,
+      "filename": "Lil Vikings - FIFA and Hip Hop.mp3",
+      "file_path": "yandex_music_dataset/audio_files/Lil Vikings - FIFA and Hip Hop.mp3",
+      "artist": "Lil Vikings",
+      "title": "FIFA and Hip Hop",
+      "genre": "hiphop",
+      "downloaded_success": true
+    },
+    {
+      "original_id": 119596069,
+      "filename": "Yogi B - Hip Hop Era.mp3",
+      "file_path": "yandex_music_dataset/audio_files/Yogi B - Hip Hop Era.mp3",
+      "artist": "Yogi B",
+      "title": "Hip Hop Era",
+      "genre": "hiphop",
+      "downloaded_success": true
+    },
+    {
+      "original_id": 127823222,
+      "filename": "Ale Buldrighini - Hip Hop.mp3",
+      "file_path": "yandex_music_dataset/audio_files/Ale Buldrighini - Hip Hop.mp3",
+      "artist": "Ale Buldrighini",
+      "title": "Hip Hop",
+      "genre": "hiphop",
+      "downloaded_success": true
+    }
+  ],
+  "failed": []
+}

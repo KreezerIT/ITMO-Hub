@@ -1,0 +1,4 @@
+url,city,deal_type,object_type,rooms,floor,floors_total,area_m2,price,currency,price_per_m2,creation_date,images_folder_url,urgent_tag
+https://edc.sale/ru/sochi/real-estate/sale/apartments/1/1-komn-kv-379-m2-1919-etazh-2136229.html,Sochi,sell,apartments,1.0,19.0,19.0,37.9,8338000.0,RUB,220000.0,25.09.2025,https://edc.sale/files/images/items/2136/,False
+https://edc.sale/ru/sankt-peterburg/real-estate/sale/houses/dom-1-et-75-m2-7-sot-2135246.html,Sankt Peterburg,sell,houses,,,1.0,75.0,4900000.0,RUB,65333.333333333336,18.09.2025,https://edc.sale/files/images/items/2135/,False
+https://edc.sale/ru/rostov-na-donu/real-estate/commercial/rent/office/sdaju-ofis-2135702.html,Rostov Na Donu,rent,office,,,7.0,,45000.0,RUB,,21.09.2025,https://edc.sale/files/images/items/2135/,True

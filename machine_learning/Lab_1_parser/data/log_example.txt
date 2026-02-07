@@ -1,0 +1,13 @@
+2025-09-28 19:43:25,906 INFO edc_parser.crawl: Обработка главной страницы №1: https://edc.sale/ru/real-estate/?page=1
+2025-09-28 19:43:27,730 INFO edc_parser.crawl:  №1 [1/10] Обработка: https://edc.sale/ru/krasnojarsk/real-estate/rent/apartments/1/1-komn-kv-40-m2-39-etazh-2136818.html
+2025-09-28 19:43:29,071 INFO edc_parser.crawl:  №1 [2/10] Обработка: https://edc.sale/ru/sankt-peterburg/real-estate/rent/one-day/apartments/apartamenty-v-parke-gagarka-2136732.html
+2025-09-28 19:43:30,712 INFO edc_parser.crawl:  №1 [3/10] Обработка: https://edc.sale/ru/sankt-peterburg/real-estate/sale/garages/garazh-betonnyj-2136694.html
+2025-09-28 19:43:32,431 INFO edc_parser.crawl:  №1 [4/10] Обработка: https://edc.sale/ru/ekaterinburg/real-estate/sale/apartments/studio/kvartira-studija-18-m2-212-etazh-2136651.html
+2025-09-28 19:43:33,478 INFO edc_parser.crawl:  №1 [5/10] Обработка: https://edc.sale/ru/minsk/real-estate/sale/apartments/3/3-komn-kv-72-m2-14-etazh-2136640.html
+2025-09-28 19:43:34,446 INFO edc_parser.crawl:  №1 [6/10] Обработка: https://edc.sale/ru/kursk/real-estate/rent/one-day/apartments/sdam-posutochno-kvartiru-jevro-formata-2136582.html
+2025-09-28 19:43:35,439 INFO edc_parser.crawl:  №1 [7/10] Обработка: https://edc.sale/ru/minsk/real-estate/sale/apartments/2/2-komn-kv-60-m2-45-etazh-2136548.html
+2025-09-28 19:43:36,420 INFO edc_parser.crawl:  №1 [8/10] Обработка: https://edc.sale/ru/sochi/real-estate/sale/apartments/2/2-komn-kv-609-m2-812-etazh-2136544.html
+2025-09-28 19:43:38,760 INFO edc_parser.crawl:  №1 [9/10] Обработка: https://edc.sale/ru/staroshherbinovskaja/real-estate/sale/land/uchastok-10-sot-vozle-mora-2136532.html
+2025-09-28 19:43:39,753 INFO edc_parser.crawl:  №1 [10/10] Обработка: https://edc.sale/ru/vinnica/real-estate/sale/houses/dom-1-et-70-m2-18-sot-2136493.html
+2025-09-28 19:43:40,734 INFO edc_parser.crawl: Итого записей собрано: 10
+2025-09-28 19:43:40,736 INFO edc_parser.crawl: Стриминговая запись завершена: data/dataset.csv. Строк записано: 10

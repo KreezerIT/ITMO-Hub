@@ -4,6 +4,7 @@
 
 ## V семестр
 
+- [Машинное обучение](machine_learning/README.md)
 - [Телекоммуникационные системы и технологии](telecommunication_systems_and_technologies/README.md)
 - [Физические основы компьютерных и сетевых технологий](physical_foundations_of_computer_and_network_technologies/README.md)
 
